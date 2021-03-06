@@ -1,1 +1,1 @@
-Chinese Translation of MangaMeeya, the manga reader.
+Chinese translation of MangaMeeya, the manga reader.
